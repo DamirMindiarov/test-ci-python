@@ -1,2 +1,2 @@
-def func(a: int, b: int) -> int:
+def func(a: int, b: int):
   return a + b
