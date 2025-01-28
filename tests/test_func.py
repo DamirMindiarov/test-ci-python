@@ -1,4 +1,4 @@
-from functions import func
+from my_f import func
 
 def test_my_func():
   result = func(2, 2)
